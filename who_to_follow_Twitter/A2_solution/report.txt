@@ -1,0 +1,20 @@
+Graph 1 ->
+	MPI 1 : 355 sec
+	MPI 2 : 203 sec
+	MPI 4 : 104 sec
+	MPI 8 : 55 sec
+	MPI 16 : 32 sec
+
+Graph 2 ->
+	MPI 1 : 109 min
+	MPI 2 : 65 min
+	MPI 4 : 58 min
+	MPI 8 : 35 min
+	MPI 16 : 24 min
+
+Graph 3 ->
+	MPI 1 : 194min
+	MPI 2 : 125 min
+	MPI 4 : 89 min
+	MPI 8 : 64 min
+	MPI 16 : 58 min
